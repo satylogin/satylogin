@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning RUST
+- 💬 Ask me about Python
+- 📫 How to reach me: [twitter](https://twitter.com/satagr/)
+- 😄 Pronouns: He/Him
+
 <!--
 **satylogin/satylogin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
