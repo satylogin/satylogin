@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning RUST
 - 💬 Ask me about Python
-- 📫 How to reach me: [twitter](https://twitter.com/satagr/)
+- 📫 How to reach me: [reddit](https://www.reddit.com/user/satylogin)
 - 😄 Pronouns: He/Him
 
 <!--
